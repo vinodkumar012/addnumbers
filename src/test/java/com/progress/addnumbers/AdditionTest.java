@@ -29,15 +29,4 @@ public class AdditionTest
     }
 
     /**
-     * Rigourous Test :-)
-     */
-    public void testAdditionNumbers1()
-    {
-        assertEquals(Addition.addTwoNumbers(10, 20),30);
-    }
-    
-    public void testAdditionNumbers2()
-    {
-        assertEquals(Addition.addTwoNumbers(50, 300),350);
-    }
 }
